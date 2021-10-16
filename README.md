@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am Albert Tarkaa, a *Software Engineer*
 
-How to reach me:
-Email: tarkaa.albert@gmail.com
-Portfolio: https://tavi.netlify.app
+How to reach me: \
+Email: tarkaa.albert@gmail.com \
+Currently building a portfolio here: https://tavi.netlify.app
 <!--
 **albert-tarkaa/albert-tarkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
 
-[1]: http://twitter.com/8thLegio
+[1]: https://twitter.com/8thLegio
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
