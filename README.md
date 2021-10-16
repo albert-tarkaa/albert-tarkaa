@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am Albert Tarkaa, a *Software Engineer*
 
-Email tarkaa.albert@gmail.com
+How to reach me:
+Email: tarkaa.albert@gmail.com
+Portfolio: https://tavi.netlify.app
 <!--
 **albert-tarkaa/albert-tarkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
