@@ -3,26 +3,6 @@ I am Albert Tarkaa, a *Software Engineer*
 
 How to reach me: \
 Email: tarkaa.albert@gmail.com \
-Currently building a portfolio here: https://tavi.netlify.app
-<!--
-**albert-tarkaa/albert-tarkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
 
 [![alt text][1.2]][1]
 
@@ -34,3 +14,6 @@ Here are some ideas to get you started:
 [1]: https://twitter.com/8thLegio
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albert-tarkaa&layout=compact)](https://github.com/albert-tarkaa/github-readme-stats)
+
