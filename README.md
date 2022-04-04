@@ -2,7 +2,7 @@
 I am Albert Tarkaa, a *Software Engineer*
 
 How to reach me: \
-Email: tarkaa.albert@gmail.com \
+Email: tarkaa.albert@gmail.com
 
 [![alt text][1.2]][1]
 
