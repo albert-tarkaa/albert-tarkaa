@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Albert Tarkaa, a *Software Engineer*. I am currently building with NextJS, DATOCMS and React Native
+I am Albert Tarkaa, a *Software Engineer*. I am currently building with React, NextJS, and React Native
 
 How to reach me: \
 Email: tarkaa.albert@gmail.com
