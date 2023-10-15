@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Albert Tarkaa, a *Software Engineer*. I am currently building with React, NextJS, and React Native and DatoCMS
+I am Albert Tarkaa, a *Software Engineer*. 
 
 How to reach me: \
 Email: tarkaa.albert@gmail.com
@@ -11,7 +11,7 @@ Email: tarkaa.albert@gmail.com
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
 
-[1]: https://twitter.com/8thLegio
+[1]: https://twitter.com/alberttarkaa
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
